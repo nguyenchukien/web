@@ -1,0 +1,5 @@
+Giang: phần đầu CV, admin (Home,About,Services)
+Bắc: phần giữa CV, trang chủ, admin (login,account)
+Kiên: phần cuối CV, admin (resume,work,contact)
+họp zoom (24/3/2022)
+nội dung: phân chia lại công việc, thông nhất lại quy tắc đặt tên
